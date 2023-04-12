@@ -44,7 +44,7 @@ class ProductManager {
 
     validProduct(product) {
         return (
-        !this.products.find((pr) => product.code == pr.code) && 
+        !this.products.find((pr) => product.id == pr.id) && 
         product.title && 
         product.description && 
         product.price && 
