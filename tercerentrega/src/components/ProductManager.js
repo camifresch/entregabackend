@@ -118,4 +118,4 @@ manager.updateProduct(4,'description', 'Zapatilla amarilla');
 manager.deleteProduct(2);
 
 
-exports.ProductManager = ProductManager;
+module.exports = {ProductManager};
