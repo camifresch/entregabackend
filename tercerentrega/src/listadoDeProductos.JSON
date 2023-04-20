@@ -1,1 +1,92 @@
-[{"title":"Camiseta","description":"camiseta de algodón","price":1500,"thumbnail":"imagen1.jpg","code":"CAM01","stock":1,"id":2},{"title":"Pantalon","description":"Pantalon de seda","price":3500,"thumbnail":"imagen2.jpg","code":"PAN01","stock":1,"id":3}]{"title":"Zapatillas","description":"Zapatilla negra","price":35000,"thumbnail":"imagen3.jpg","code":"ZAP01","stock":1,"id":4}]
+[
+    {
+        "title": "Camiseta",
+        "description": "camiseta de algodón",
+        "price": 1500,
+        "thumbnail": "imagen1.jpg",
+        "code": "CAM01",
+        "stock": 1,
+        "id": 1
+    },
+    {
+        "title": "Pantalon",
+        "description": "Pantalon de seda",
+        "price": 3500,
+        "thumbnail": "imagen2.jpg",
+        "code": "PAN01",
+        "stock": 1,
+        "id": 2
+    },
+    {
+        "title": "Zapatillas",
+        "description": "Zapatilla negra",
+        "price": 35000,
+        "thumbnail": "imagen3.jpg",
+        "code": "ZAP01",
+        "stock": 1,
+        "id": 3
+    },
+    {
+        "title": "Camiseta2",
+        "description": "camiseta de algodón",
+        "price": 1500,
+        "thumbnail": "imagen4.jpg",
+        "code": "CAM02",
+        "stock": 1,
+        "id": 4
+    },
+    {
+        "title": "Camiseta3",
+        "description": "camiseta de algodón",
+        "price": 1500,
+        "thumbnail": "imagen5.jpg",
+        "code": "CAM03",
+        "stock": 1,
+        "id": 5
+    },
+    {
+        "title": "Pantalon2",
+        "description": "Pantalon de seda",
+        "price": 3500,
+        "thumbnail": "imagen6.jpg",
+        "code": "PAN02",
+        "stock": 1,
+        "id": 6
+    },
+    {
+        "title": "Pantalon3",
+        "description": "Pantalon de seda",
+        "price": 3500,
+        "thumbnail": "imagen7.jpg",
+        "code": "PAN03",
+        "stock": 1,
+        "id": 7
+    },
+    {
+        "title": "Zapatillas2",
+        "description": "Zapatilla negra",
+        "price": 35000,
+        "thumbnail": "imagen8.jpg",
+        "code": "ZAP02",
+        "stock": 1,
+        "id": 8
+    },
+    {
+        "title": "Zapatillas3",
+        "description": "Zapatilla negra",
+        "price": 35000,
+        "thumbnail": "imagen9.jpg",
+        "code": "ZAP03",
+        "stock": 1,
+        "id": 9
+    },
+    {
+        "title": "Zapatillas4",
+        "description": "Zapatilla negra",
+        "price": 35000,
+        "thumbnail": "imagen10.jpg",
+        "code": "ZAP04",
+        "stock": 1,
+        "id": 10
+    }
+]
